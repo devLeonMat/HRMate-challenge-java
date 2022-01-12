@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "location": "Calle Falsa 123, Springfield",
+    "model": "FastBike",
+    "color": "blue",
+    "photo": "https://w7.pngwing.com/pngs/998/319/png-transparent-electric-bicycle-focus-bikes-mountain-bike-cycling-focus-bicycle-frame-bicycle-hybrid-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+
+  },
+  {
+    "id": 2,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "location": "Calle Falsa 123, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": false,
+    "dateAvailable": "2022-01-13T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "location": "Calle Falsa 123, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": false,
+    "dateAvailable": "2022-01-13T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "location": "Calle Falsa 123, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": false,
+    "dateAvailable": "2022-01-14T00:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "location": "Calle Falsa 123, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": true,
+    "dateAvailable": "2022-01-12T00:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "location": "Avenida Siempreviva 456, Springfield",
+    "model": "DuffBike",
+    "color": "red",
+    "photo": "https://e7.pngegg.com/pngimages/1003/910/png-clipart-santa-cruz-bicycles-mountain-bike-flow-trail-red-cross-volunteers-wanted-bicycle-frame-bicycle.png",
+    "isAvailable": false,
+    "dateAvailable": "2022-01-14T00:00:00.000Z"
+  }
+]
